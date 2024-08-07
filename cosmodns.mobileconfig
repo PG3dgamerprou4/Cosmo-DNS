@@ -136,7 +136,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Payloadconfirmed</key>
-			<string>khoindvn.eu.org</string>
+			<string>cosmoxofficial.netlify.app</string>
 		</dict>
 		<dict>
 			<key>PayloadCertificateFileName</key>
@@ -296,7 +296,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Cosmo DNS</string>
 	<key>PayloadIdentifier</key>
-	<string>khoindvn.cloudflare.warp.com.profile</string>
+	<string>cosmox.cloudflare.warp.com.profile</string>
 	<key>PayloadOrganization</key>
 	<string>No Blacklist And Revokes And The Best And Powerful DNS! (Credits To: Khoindvn / Toasty.dev)</string>
 	<key>PayloadScope</key>
@@ -304,7 +304,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>khoindvn.cloudflare-gateway.com.dnsSettings.managed</string>
+	<string>cosmox.cloudflare-gateway.com.dnsSettings.managed</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
