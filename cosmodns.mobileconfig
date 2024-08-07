@@ -22,7 +22,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Cosmo DNS (1)</string>
+			<string>Cosmo DNS (1) (Anti-Revoke + Ad-Block)</string>
 			<key>PayloadIdentifier</key>
 			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
 			<key>PayloadType</key>
@@ -64,7 +64,7 @@
 				</dict>
 			</array>
 			<key>PayloadDisplayName</key>
-			<string>Cosmo DNS (2)</string>
+			<string>Cosmo DNS (2) (Anti-Revoke + Anti-Blacklist)</string>
 			<key>PayloadIdentifier</key>
 			<string>beacons.ai.cosmox.profile</string>
 			<key>PayloadType</key>
